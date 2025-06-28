@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { Github, ExternalLink, Code, Users, Zap, Shield, Database, Cloud } from 'lucide-react';
+import { Github, ExternalLink, Code, Users, Zap, Shield, Database } from 'lucide-react';
 import './App.css';
 
 // Importando assets
